@@ -30,6 +30,14 @@
 - issue_records
 - admins
 
+##  📦 Technologies Used
+
+- Java (Core + Swing/JavaFX)
+- JDBC
+- MySQL/SQLite
+- OOP & MVC Architecture
+  
+
 ### 📂 Project Structure
 
 ```
@@ -97,6 +105,20 @@ java -cp ".;lib/mysql-connector-j.jar" Main
 
 ![image alt](https://github.com/Aniket7310/Library_Management-System/blob/5098518c4d5c9b4ad1a22172eebfcec6d53276e2/Login.jpeg)
 
+## Main Interface:
+
+![image alt](https://github.com/Aniket7310/Library_Management-System/blob/b026d421cdf288e113ace26daa54ca741b5b264d/main.jpeg)
+
+## ✨ Future Enhancements
+
+- Export reports to PDF
+- Email notifications
+- Online version with REST API
+- Android app extension
+
+## 📄 License
+
+  - This project is licensed under the MIT License.
 
 
 
